@@ -97,4 +97,4 @@ Victor Kumar
 
 ## License
 
-This project is for educational purposes (CS 470 Term Project).
+This project is for educational purposes.
